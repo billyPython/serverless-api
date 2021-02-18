@@ -88,8 +88,7 @@ You can check more on how to configure and use Zappa here: https://github.com/Mi
 
 ## Chalice
 
-I would `HIGHLY` recommend using `Chalice` instead, 
-because it is "microframework" writen by AWS it self for fast creation and deployment of applications that use AWS Lambda.
+I would maybe recommend using `Chalice`, because it is "microframework" writen by AWS it self for fast creation and deployment of applications that use AWS Lambda.
 Also, it is flask like.
 
 You can read on how to configure and use `Chalice` on link below:
